@@ -27,7 +27,7 @@ Hi, I'm Ziyad
 📝 I have a strong interest in Frontend Development
 🌱 Currently learning React Native and SolidJS
 🌟 Main languages: JavaScript/TypeScript, Python
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1Zq6_i4IsGHDUAMS6MJwZoTgLUygNxgoR/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
