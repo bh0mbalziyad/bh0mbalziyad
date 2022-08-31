@@ -15,7 +15,7 @@ Hi, I'm Ziyad
 <br/>
 <p align="center">
 	<a href="https://github.com/bh0mbalziyad">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&center=true&width=435&lines=Frontend+Developer;React.js+%7C+Next.js;REST+%7C+GraphQL;Javascript+%7C+Typescript+%7C+Python;Azure+%7C+AWS+%7C+Firebase" alt="Typing SVG" />
 	</a>
 </p>
 
