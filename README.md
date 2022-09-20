@@ -27,13 +27,12 @@ Hi, I'm Ziyad
 📝 I have a strong interest in Frontend Development
 🌱 Currently learning React Native and SolidJS
 🌟 Main languages: JavaScript/TypeScript, Python
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1Zq6_i4IsGHDUAMS6MJwZoTgLUygNxgoR/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:zeebhombal@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:zeebhombal+dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bhombalziyad/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/bh0mbalziyad"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
