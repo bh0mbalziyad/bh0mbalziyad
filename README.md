@@ -24,11 +24,11 @@ Hi, I'm Ziyad
 <pre>
 ᯓ Self-taught full stack developer, 6+ years shipping production systems
 ᯓ Bachelors in Computer Science from Mumbai University
-ᯓ I work the whole stack: React Native and Next.js on top, Node and Go behind
+ᯓ I work the whole stack: React Native and Next.js on top, Node, Python and Go behind
   them, PostgreSQL in the middle, and the AWS infrastructure underneath
 ᯓ Recently: a bulk-notification platform, an RDS to self-hosted Postgres
   migration, high-throughput ingestion pipelines, and LLM features in production
-ᯓ Main languages: TypeScript, Go, Python, SQL
+ᯓ Main languages: JavasSript/TypeScript, Python, Go, Java, C
 </pre>
 <hr>
 
